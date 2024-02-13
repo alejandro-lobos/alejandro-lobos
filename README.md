@@ -3,9 +3,11 @@
 </div>
 <img src="https://i.postimg.cc/t4ZrBWtD/1696374532623.jpg">
 
-Actualmente, estoy explorando nuevas oportunidades en el campo de la informática para continuar perfeccionándome y avanzar en mi desarrollo profesional. A lo largo de mi carrera, he demostrado ser responsable, motivado, creativo y promotor de buen clima laboral.
 
 [![GitHub followers](https://img.shields.io/github/followers/alejandro-lobos?style=social)](https://github.com/alejandro-lobos)
+
+
+Actualmente, estoy explorando nuevas oportunidades en el campo de la informática para continuar perfeccionándome y avanzar en mi desarrollo profesional. A lo largo de mi carrera, he demostrado ser responsable, motivado, creativo y promotor de buen clima laboral.
 
 ## Sobre mi
 
