@@ -3,7 +3,7 @@
 </div>
 <img src="">
 
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
+[![GitHub followers](https://img.shields.io/github/followers/alejandro-lobos?style=social)](https://github.com/alejandro-lobos)
 
 ## Sobre mi
 
