@@ -7,6 +7,6 @@
 
 ## Sobre mi
 
-- Desarrollador Web 
+- 💻 Desarrollador Web 
 - 📲 Desarrolador Movil
-
+- 📕 Base de datos No relacional y Relacional
