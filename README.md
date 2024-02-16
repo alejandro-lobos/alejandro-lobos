@@ -10,7 +10,8 @@
 Actualmente, estoy explorando nuevas oportunidades en el campo de la informática para continuar perfeccionándome y avanzar en mi desarrollo profesional. A lo largo de mi carrera, he demostrado ser responsable, motivado, creativo y promotor de un buen clima laboral.
 
 ## Sobre mi
-
+- 🐍 Python, JavaScript, Java
+- 🚀 React, React Native, Docker, Azure
 - 💻 Desarrollador Web 
 - 📲 Desarrolador Movil
 - 📕 Base de datos No relacional y Relacional
