@@ -20,9 +20,8 @@ Actualmente, estoy explorando nuevas oportunidades en el campo de la informátic
 
 <p align="center">
 <a href="https://github.com/alejandro-lobos">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alejandro-lobos&show_icons=true&theme=radical"/>
-
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alejandro-lobos&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alejandro-lobos&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
-
 </a>
 </p>
+
