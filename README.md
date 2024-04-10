@@ -18,9 +18,11 @@ Actualmente, estoy explorando nuevas oportunidades en el campo de la informátic
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<a href="https://github.com/alejandro-lobos">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alejandro-lobos" />
-</a>
-<a href="https://github.com/alejandro-lobos">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandro-lobos&layout=compact&langs_count=8&card_width=320" />
-</a>
+<p align="center">
+  <a href="https://github.com/alejandro-lobos">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=alejandro-lobos&show_icons=true&theme=tokyonight&count_private=true" />
+  </a>
+  <a href="https://github.com/alejandro-lobos">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandro-lobos&layout=compact&langs_count=8&card_width=445&theme=tokyonight&count_private=true" />
+  </a>
+</p>
