@@ -25,4 +25,5 @@ Actualmente, estoy explorando nuevas oportunidades en el campo de la informátic
   <a href="https://github.com/alejandro-lobos">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandro-lobos&layout=compact&langs_count=8&card_width=445&theme=tokyonight&count_private=true" />
   </a>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </p>
