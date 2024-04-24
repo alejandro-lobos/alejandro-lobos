@@ -7,7 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/alejandro-lobos?style=social)](https://github.com/alejandro-lobos)
 
 
-Actualmente, estoy explorando nuevas oportunidades en el campo de la informática para continuar perfeccionándome y avanzar en mi desarrollo profesional. A lo largo de mi carrera, he demostrado ser responsable, motivado, creativo y promotor de un buen clima laboral.
+Desarrollador Full Stack comprometido con la innovación y el desarrollo de soluciones de calidad. Me caracterizo por ser una persona responsable y apasionada, en constante búsqueda de conocimiento y crecimiento personal en el área de la informática.
 
 ## Sobre mi
 - 🐍 Python, JavaScript, Java
