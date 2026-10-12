@@ -1,8 +1,8 @@
 <div align="center">
 
-./Designer.png
+<img src="https://raw.githubusercontent.com/alejandro-lobos/alejandro-lobos/main/Designer.png" width="100%" alt="Alejandro Lobos Banner" />
 
-# Hola, soy Alejandro Lobos 👋
+# Alejandro Lobos
 
 ### Ingeniero Civil Informático • Entrenador de Voleibol • Constructor de Productos Digitales
 
@@ -65,7 +65,7 @@ Me apasiona convertir ideas en productos reales, combinando tecnología, lideraz
 ## 🌎 Encuéntrame en
 
 - 🌐 <a href="https://alejandrolobos.com/">Web Personal</a>
-- 💼 https://linkedin.com/in/alejandro-lobos-arenasLinkedIn</a>
+- 💼 <a href="https://linkedin.com/in/alejandro-lobos-arenas">LinkedIn</a>
 - 📂 <a href="https://github.com/alejandro-lobos">GitHub</a>
 
 ---
@@ -84,8 +84,4 @@ Me apasiona convertir ideas en productos reales, combinando tecnología, lideraz
   <a href="https://github.com/alejandro-lobos">
     <img
       height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-lobos&layout=compact&langs_count=8&theme=tokyonight"
-      altuilding apps for sports, productivity and learning 🚀
-
-</div>
-``
+      src="https://github-readme-stats.vercel.app/api/top-langs/?
