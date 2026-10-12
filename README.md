@@ -2,7 +2,7 @@
 
 # Hola, soy Alejandro Lobos 👋
 
-### Ingeniero Civil Informático • Entrenador de Voleibol • Constructor de Productos Digitales
+<img src="./Designer.png" width="100%" alt="Alejandro Lobos Bannerl Informático • Entrenador de Voleibol • Constructor de Productos Digitales
 
 🌐 <a href="https://alejandrolobos.com/">alejandrolobos.com</a>
 
